@@ -1,6 +1,6 @@
 ## 🦦Welcome🦦
 <br/>
-### Hi, I'm minjo0n61
+Hi, I'm minjo0n61
 <br/>
 ,who studies Web-Frontend every day!
 <br/>
