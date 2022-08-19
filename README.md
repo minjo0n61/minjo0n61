@@ -1,6 +1,7 @@
 ### 🦦Welcome🦦
 <br/>
-**Hi, I'm minjo0n61,**
+Hi, I'm minjo0n61,
+<br/>
 who studies Web-Frontend every day!
 <br/>
 Currently, I'm double majoring in Computer Engineering & Industrial Design, and I am interested in both development and design. I'm studying Web-Frontend hard with the goal of showing the 3D design works interactively on the website.
@@ -12,6 +13,8 @@ Learning About🌱
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <br/>
+<!--
+gif도전
 <lottie-player
   autoplay
   controls
@@ -23,6 +26,7 @@ Learning About🌱
 </lottie-player>
 <lottie-player autoplay controls loop mode="normal" style="width: 320px">
 </lottie-player>
+-->
 <!--
 **minjo0n61/minjo0n61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
