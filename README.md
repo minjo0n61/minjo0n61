@@ -4,7 +4,7 @@
 </h3>
 <br>
 
-## 🦦Study Web-Frontend every day!🦦
+## 🦦Study Web - Frontend every day!🦦
 
 Currently, I'm double majoring in Computer Engineering & Industrial Design, and I am interested in both development and design. I'm studying Web-Frontend hard with the goal of showing the 3D design works interactively on the website.
 <br/>
