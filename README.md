@@ -1,8 +1,8 @@
-# 🦦Welcome🦦
+## 🦦Welcome🦦
 <br/>
-## Hi, I'm minjo0n61,
+### Hi, I'm minjo0n61
 <br/>
-who studies Web-Frontend every day!
+,who studies Web-Frontend every day!
 <br/>
 Currently, I'm double majoring in Computer Engineering & Industrial Design, and I am interested in both development and design. I'm studying Web-Frontend hard with the goal of showing the 3D design works interactively on the website.
 <br/>
