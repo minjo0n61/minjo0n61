@@ -4,26 +4,38 @@
 </h3>
 <br>
 
-## 🦦Study Web - Frontend & Algorithm every day!🦦
+## Minjoon's Github Stats
+The way to get started is to quit talking and begin doing. -- Walt Disney
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjo0n61&&show_icons=true&theme=radical)
+
+## Which language do I use the most?
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjo0n61&layout=compact&theme=radical)
+
+## Minjoon BOJ Stats
+Solve 1 algorithm problem everyday (2022.7.27 ~ing)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjo0n61)](https://solved.ac/minjo0n61)
+
+
+## Who am I?
 
 Currently, I'm double majoring in Computer Engineering & Industrial Design, and I am interested in both development and design. I'm studying Web-Frontend hard with the goal of showing the 3D design works interactively on the website.
 <br/>
-
-<h3 align="left">Contect Me</h3>
-<p align="left">
-mail - minjoon1998@gmail.com or cmj1998@naver.com <br/>
-instagram - min_jo0n
-</p>
 <h3 align="left">Tech Stack</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<br/><br/>
+</br>
+<h3 align="left">Contect Me</h3>
+<p align="left">
+mail - minjoon1998@gmail.com or cmj1998@naver.com <br/>
+instagram - min_jo0n
+</p>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjo0n61&&show_icons=true&theme=radical)]
 
 
 
