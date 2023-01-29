@@ -1,17 +1,18 @@
 <h3 align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi!%20I'm%20[MinJoon]!&fontAlign=50&fontAlignY=50&fontSize=70&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi!%20I'm%20[MinJoon]!&fontAlign=50&fontAlignY=50&fontSize=70&fontColor=ffffff)
 </h3>
-<br>
 
 ## Minjoon's Github Stats
 The way to get started is to quit talking and begin doing. -- Walt Disney
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjo0n61&&show_icons=true&theme=radical)
+<a href="https://github.com/minjo0n61"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=minjo0n61&theme=flag-india&show_icons=true&hide=stars,prs&count_private=true"/> </a>
+<br/>
 
 ## Which language do I use the most?
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjo0n61&layout=compact&theme=radical)
+<a href="https://github.com/minjo0n61"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allzeroyou&layout=compact&theme=flag-india&hide_border=true" /></a> 
+
 
 ## Minjoon BOJ Stats
 Solve 1 algorithm problem everyday (2022.7.27 ~ing)
