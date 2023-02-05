@@ -11,7 +11,7 @@ The way to get started is to quit talking and begin doing. -- Walt Disney
 
 ## Which language do I use the most?
 
-<a href="https://github.com/minjo0n61"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allzeroyou&layout=compact&theme=flag-india&hide_border=true" /></a> 
+<a href="https://github.com/minjo0n61"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjo0n61&layout=compact&theme=flag-india&hide_border=true" /></a> 
 
 
 ## Minjoon BOJ Stats
