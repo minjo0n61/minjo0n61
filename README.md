@@ -30,7 +30,7 @@ Currently, I'm double majoring in Computer Engineering & Industrial Design, and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-</br><img width="814" alt="스크린샷 2023-02-06 오후 11 37 37" src="https://user-images.githubusercontent.com/76935187/217000291-7b925412-e19d-4db9-8fbb-a73d08f3fe02.png">
+
 
 <h3 align="left">Contect Me</h3>
 <p align="left">
