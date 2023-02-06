@@ -9,15 +9,16 @@ The way to get started is to quit talking and begin doing. -- Walt Disney
 <a href="https://github.com/minjo0n61"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=minjo0n61&theme=flag-india&show_icons=true&hide=stars,prs&count_private=true"/> </a>
 <br/>
 
-## Which language do I use the most?
-
-<a href="https://github.com/minjo0n61"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjo0n61&layout=compact&theme=flag-india&hide_border=true" /></a> 
-
 
 ## Minjoon BOJ Stats
 Solve 1 algorithm problem everyday (2022.7.27 ~ing)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjo0n61)](https://solved.ac/minjo0n61)
+
+
+## Which language do I use the most?
+
+<a href="https://github.com/minjo0n61"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjo0n61&layout=compact&theme=flag-india&hide_border=true" /></a> 
 
 
 ## Who am I?
@@ -29,7 +30,8 @@ Currently, I'm double majoring in Computer Engineering & Industrial Design, and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-</br>
+</br><img width="814" alt="스크린샷 2023-02-06 오후 11 37 37" src="https://user-images.githubusercontent.com/76935187/217000291-7b925412-e19d-4db9-8fbb-a73d08f3fe02.png">
+
 <h3 align="left">Contect Me</h3>
 <p align="left">
 mail - minjoon1998@gmail.com or cmj1998@naver.com <br/>
