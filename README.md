@@ -36,7 +36,7 @@ Currently, I'm double majoring in Computer Engineering & Industrial Design, and 
 <p align="left">
 mail - minjoon1998@gmail.com or cmj1998@naver.com <br/>
 instagram - min_jo0n <br/>
-blog - https://minjo0n.tistory.com/
+blog - https://minjo0n.tistory.com
 </p>
 
 
