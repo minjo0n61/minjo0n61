@@ -38,7 +38,7 @@ mail - minjoon1998@gmail.com or cmj1998@naver.com <br/>
 instagram - min_jo0n <br/>
 blog - https://minjo0n.tistory.com<br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjo0n61&count_bg=%2379C83D&title_bg=%23555555&icon=react.svg&icon_color=%2314E1D6&title=hits&edge_flat=false"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fminjo0n.tistory.com&count_bg=%2379C83D&title_bg=%23555555&icon=svelte.svg&icon_color=%23E1142D&title=blog&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fminjo0n.tistory.com&count_bg=%2379C83D&title_bg=%23555555&icon=svelte.svg&icon_color=%23E1142D&title=blog&edge_flat=false"/></a>
 </p>
 
 
