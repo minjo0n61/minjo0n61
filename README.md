@@ -3,11 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi!%20I'm%20[MinJoon]!&fontAlign=50&fontAlignY=50&fontSize=70&fontColor=ffffff)
 </h3>
 
-## Minjoon's Github Stats
+<!--## Minjoon's Github Stats-->
 The way to get started is to quit talking and begin doing. -- Walt Disney
 
-<a href="https://github.com/minjo0n61"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=minjo0n61&theme=flag-india&show_icons=true&hide=stars,prs&count_private=true"/> </a>
-<br/>
+<!-- <a href="https://github.com/minjo0n61"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=minjo0n61&theme=flag-india&show_icons=true&hide=stars,prs&count_private=true"/> </a> 
+<br/>-->
 
 
 ## Minjoon BOJ Stats
