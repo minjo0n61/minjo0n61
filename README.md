@@ -15,6 +15,7 @@ Solve 1 algorithm problem everyday (2022.7.27 ~ing)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjo0n61)](https://solved.ac/minjo0n61)
 
+https://solved.ac/profile/minjo0n61
 
 ## Which language do I use the most?
 
@@ -34,7 +35,7 @@ Currently, I'm double majoring in Computer Engineering & Industrial Design, and 
 
 <h3 align="left">Contect Me</h3>
 <p align="left">
-mail - minjoon1998@gmail.com or cmj1998@naver.com <br/>
+mail - minjoon1998@gmail.com / cmj1998@naver.com <br/>
 instagram - min_jo0n <br/>
 blog - https://minjo0n.tistory.com<br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjo0n61&count_bg=%2379C83D&title_bg=%23555555&icon=react.svg&icon_color=%2314E1D6&title=hits&edge_flat=false"/></a>
