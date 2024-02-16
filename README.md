@@ -10,12 +10,14 @@ The way to get started is to quit talking and begin doing. -- Walt Disney
 <br/>-->
 
 
-## Minjoon BOJ Stats
+## Study History
+### <a href="https://www.notion.so/7ca2240f6576448fb55c5de784bf986a">Javascript Deep Dive Team Study</a>
+### <a href="https://www.notion.so/c909914219d145a18d1373af42f10e53">Algorithm Team Study</a>
+### <a href="https://solved.ac/profile/minjo0n61">Algorithm Self Study</a>
 Solve 1 algorithm problem everyday (2022.7.27 ~ing)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjo0n61)](https://solved.ac/minjo0n61)
 
-https://solved.ac/profile/minjo0n61
 
 ## Which language do I use the most?
 
