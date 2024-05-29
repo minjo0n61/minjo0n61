@@ -11,9 +11,10 @@ The way to get started is to quit talking and begin doing. -- Walt Disney
 
 
 ## Study History
-### <a href="https://www.notion.so/7ca2240f6576448fb55c5de784bf986a">Javascript Deep Dive Team Study</a>
-### <a href="https://www.notion.so/c909914219d145a18d1373af42f10e53">Algorithm Team Study</a>
-### <a href="https://solved.ac/profile/minjo0n61">Algorithm Self Study</a>
+### <a href="https://www.notion.so/7ca2240f6576448fb55c5de784bf986a">- Javascript Deep Dive Team Study</a>
+### <a href="https://www.notion.so/c909914219d145a18d1373af42f10e53">- Algorithm Team Study</a>
+### <a href="https://solved.ac/profile/minjo0n61">- Algorithm Self Study</a>
+### <a href="https://fish-rodent-fb1.notion.site/8ebb8ae66521455daa54e797e6b7a4b7?pvs=4">- react.dev Team Study</a>
 Solve 1 algorithm problem everyday (2022.7.27 ~ing)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjo0n61)](https://solved.ac/minjo0n61)
